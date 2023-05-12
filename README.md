@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about anything
 - 📫 How to reach me: osmankutukcu@gmail.com
-- ⚡ Fun fact: html,css,bootstrap
+- ⚡ Fun fact: Physics,html,css,bootstrap,javascript,c#
 
